@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.env
+venv/
+data/ninapro_db5/
+data/*.mat
+data/*.csv
+*.pkl
+*.h5
+results/*.csv
+results/*.png
